@@ -27,12 +27,19 @@
     "address_country": null,
     "cvc_check": "pass",
     "address_line1_check": null,
-    "address_zip_check": null
+    "address_zip_check": "pass"
   },
   "captured": true,
   "refunds": [
 
   ],
+  "outcome": {
+    "network_status": "approved_by_network",
+    "reason": null,
+    "risk_level": "normal",
+    "seller_message": "Payment complete.",
+    "type": "authorized"
+  },
   "balance_transaction": "txn_103cQg2eZvKYlo2CYKVlR2nh",
   "failure_message": null,
   "failure_code": null,

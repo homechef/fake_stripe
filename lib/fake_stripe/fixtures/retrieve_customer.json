@@ -21,7 +21,7 @@
         "address_line2": null,
         "address_state": null,
         "address_zip": null,
-        "address_zip_check": null,
+        "address_zip_check": "pass",
         "brand": "Visa",
         "country": "US",
         "customer": "abcdefghijklmnop",
