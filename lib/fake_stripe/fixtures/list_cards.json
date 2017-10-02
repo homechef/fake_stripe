@@ -23,7 +23,7 @@
     "address_country": null,
     "cvc_check": null,
     "address_line1_check": null,
-    "address_zip_check": null
+    "address_zip_check": "pass"
   },
   {
     "id": "card_103ewd2eZvKYlo2CzCsKfISG",
@@ -45,7 +45,7 @@
     "address_country": null,
     "cvc_check": null,
     "address_line1_check": null,
-    "address_zip_check": null
+    "address_zip_check": "pass"
   },
   {
     "id": "card_103ewd2eZvKYlo2CzCsKfISH",
@@ -67,7 +67,7 @@
     "address_country": null,
     "cvc_check": null,
     "address_line1_check": null,
-    "address_zip_check": null
+    "address_zip_check": "pass"
   }
   ]
 }

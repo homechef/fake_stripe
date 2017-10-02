@@ -33,7 +33,7 @@
         "address_country": null,
         "cvc_check": "pass",
         "address_line1_check": null,
-        "address_zip_check": null
+        "address_zip_check": "pass"
       },
       "captured": true,
       "refunds": [
