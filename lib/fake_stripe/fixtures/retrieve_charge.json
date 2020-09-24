@@ -1,5 +1,5 @@
 {
-  "id": "ch_25i3MyhoGLLA8s",
+  "id": "ch_103ewb2eZvKYlo2CjopvmZyM",
   "object": "charge",
   "amount": 900,
   "amount_captured": 900,
@@ -7,7 +7,7 @@
   "application": null,
   "application_fee": null,
   "application_fee_amount": null,
-  "balance_transaction": "txn_25i3ndwKVAMbOG",
+  "balance_transaction": "txn_103cQg2eZvKYlo2CYKVlR2nh",
   "billing_details": {
     "address": {
       "city": null,
@@ -57,7 +57,7 @@
       "country": "US",
       "exp_month": 1,
       "exp_year": 2018,
-      "fingerprint": "gKmAwmokVhNI2Yzr",
+      "fingerprint": "ZYXWVUTSRQPONMLK",
       "funding": "credit",
       "installments": null,
       "last4": "4242",
@@ -69,13 +69,13 @@
   },
   "receipt_email": null,
   "receipt_number": null,
-  "receipt_url": "https://pay.stripe.com/receipts/acct_1wuZLSIRFAiR8lgNnDWn/ch_25i3MyhoGLLA8s/rcpt_EH70VCU16gj9NofxyLId16TVfaFR65I",
+  "receipt_url": "https://pay.stripe.com/receipts/acct_1wuZLSIRFAiR8lgNnDWn/ch_103ewb2eZvKYlo2CjopvmZyM/rcpt_EH70VCU16gj9NofxyLId16TVfaFR65I",
   "refunded": false,
   "refunds": {
     "object": "list",
     "data": [],
     "has_more": false,
-    "url": "/v1/charges/ch_25i3MyhoGLLA8s/refunds"
+    "url": "/v1/charges/ch_103ewb2eZvKYlo2CjopvmZyM/refunds"
   },
   "review": null,
   "shipping": null,
