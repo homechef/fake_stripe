@@ -1,8 +1,8 @@
 {
   "id": "ch_103ewb2eZvKYlo2CjopvmZyM",
   "object": "charge",
-  "amount": 900,
-  "amount_captured": 900,
+  "amount": 500,
+  "amount_captured": 500,
   "amount_refunded": 0,
   "application": null,
   "application_fee": null,
