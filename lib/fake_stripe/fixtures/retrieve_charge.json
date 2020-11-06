@@ -33,7 +33,9 @@
   "fraud_details": {},
   "invoice": "in_25i3zvFulsogvB",
   "livemode": false,
-  "metadata": {},
+  "metadata": {
+    "idempotency_key": "success-attempt-0"
+  },
   "on_behalf_of": null,
   "order": null,
   "outcome": {
