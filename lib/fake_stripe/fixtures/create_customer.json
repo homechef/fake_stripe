@@ -33,7 +33,7 @@
         "last4": "4242",
         "metadata": {},
         "name": null,
-        "tokenization_method": null
+        "tokenization_method": "apple_pay",
       }
     ],
     "has_more": false,
@@ -52,4 +52,4 @@
   "account_balance": 0,
   "currency": "usd",
   "default_source": "card_1234567890ABCDEFghijklmn"
-}
+},
